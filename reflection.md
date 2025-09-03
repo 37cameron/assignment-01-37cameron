@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Cameron Light
+Sudent Email:  colight@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I learned more about the vs code environment, tests, debugging. I feel like I have strong bearings after this assignment and understand better how to fork from git, commit changes, etc... 
 
+I am still a bit confused on the functionality of the breakpoint. Does it stop the code from going past this point?
